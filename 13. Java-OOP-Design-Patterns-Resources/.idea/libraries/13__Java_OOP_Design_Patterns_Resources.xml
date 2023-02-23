@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="13. Java-OOP-Design-Patterns-Resources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Singleton.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Command.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Product.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
